@@ -1,5 +1,7 @@
 # HEALTH-INSURANCE-CROSS-SELL-PREDICTION
 Predict Health Insurance Owners' who will be interested in Vehicle Insurance
+![image](https://user-images.githubusercontent.com/90926349/183107575-87b673d5-969b-4971-803c-d17e2d563705.png)
+
 
 # Problem Statement
 Your client is an Insurance company that has provided Health Insurance to its customers now they need your help in building a model to predict whether the customers from past year will also be interested in Vehicle Insurance provided by the company.
@@ -7,7 +9,7 @@ Your client is an Insurance company that has provided Health Insurance to its cu
 # Business Goal
 Building a model to predict whether a customer would be interested in Vehicle Insurance is extremely helpful for the company because it can then accordingly plan its communication strategy to reach out to those customers and optimise its business model and revenue.
 
-# Data Discription
+# Data Description
 Data Source : Kaggle
 
 Data Source Link : https://www.kaggle.com/anmolkumar/health-insurance-cross-sell-prediction?select=train.csv
