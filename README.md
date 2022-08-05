@@ -16,27 +16,27 @@ Data Source Link : https://www.kaggle.com/anmolkumar/health-insurance-cross-sell
 
 The Dataset used for the analysis includes the following columns:
 
-id : Unique ID for the customer
+* id : Unique ID for the customer
 
-Gender : Gender of the customer
+* Gender : Gender of the customer
 
-Age : Age of the customer
+* Age : Age of the customer
 
-Driving_License : 0 - Customer does not have DL,1 - Customer already has DL
+* Driving_License : 0 - Customer does not have DL,1 - Customer already has DL
 
-Region_Code : Unique code for the region of the customer
+* Region_Code : Unique code for the region of the customer
 
-Previously_Insured : 1 - Customer already has Vehicle Insurance, 0-Customer doesn't have Vehicle Insurance
+* Previously_Insured : 1 - Customer already has Vehicle Insurance, 0-Customer doesn't have Vehicle Insurance
 
-Vehicle_Age : Age of the Vehicle Vehicle_Damage : 1 - Customer got his/her vehicle damaged in the past. 0 -Customer didn't get his/her vehicle damaged in the past.
+* Vehicle_Age : Age of the Vehicle Vehicle_Damage : 1 - Customer got his/her vehicle damaged in the past. 0 -Customer didn't get his/her vehicle damaged in the past.
 
-Annual_Premium : The amount customer needs to pay as premium in the year
+* Annual_Premium : The amount customer needs to pay as premium in the year
 
-PolicySalesChannel : Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc.
+* PolicySalesChannel : Anonymized Code for the channel of outreaching to the customer ie. Different Agents, Over Mail, Over Phone, In Person, etc.
 
-Vintage : Number of Days, Customer has been associated with the company
+* Vintage : Number of Days, Customer has been associated with the company
 
-Response : 1 - Customer is interested, 0 - Customer is not interested
+* Response : 1 - Customer is interested, 0 - Customer is not interested
 
 # Model Performance
 ![image](https://user-images.githubusercontent.com/90926349/183013634-22e00fad-1a30-4f37-9ad7-7400028ee2ba.png)![image](https://user-images.githubusercontent.com/90926349/183013664-e7ce96c9-35e9-4b83-ba78-3c653d27cb54.png)
